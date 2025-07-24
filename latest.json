@@ -1,11 +1,11 @@
 {
-    "version": "0.2.0",
+    "version": "0.1.0",
     "notes": "Sample update",
-    "pub_date": "2025-07-24T16:45:31.820Z",
+    "pub_date": "2025-07-24T17:53:36.585Z",
     "platforms": {
       "windows-x86_64": {
         "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUVDZXZW4vLzJEdWo1TDNkaExRdXptamxzaUhleVFKTE1Ed2dTdnMxTkdYalNZbWcvdWlzejBiMW8vWGYzTXZweXF0QUY4TVdrNFMyTFFkMHNER3VkWTd1Yy9ZS1J4YkFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzUzMzUxNTA3CWZpbGU6cHZwLXJvLWNsaWVudF8wLjIuMF94NjRfZW4tVVMubXNpCkdGSEY0QUlpTnM5MVIxQXpwd3ZMbzhpTTdCTG1sb25LQi9HUDZQSEVCOE9QUjB6WXhiT1lhSFhObHVJbVlVSUE4a2dEVm5lclFGcjZydWpwb2RDS0RRPT0K",
-        "url": "https://github.com/mang0apps/pvpro-reborn-public/releases/download/0.2.0/pvp-ro-client_0.2.0_x64_en-US.msi"
+        "url": "https://github.com/mang0apps/pvpro-reborn-public/releases/download/0.1.0/pvp-ro-client_0.2.0_x64-setup.exe"
       }
     }
   }
