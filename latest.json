@@ -1,10 +1,10 @@
 {
     "version": "0.3.0",
-    "notes": "Update 0.3.0",
+    "notes": "Update 0.3.1",
     "pub_date": "2025-07-24T17:53:36.585Z",
     "platforms": {
       "windows-x86_64": {
-        "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUVDZXZW4vLzJEdW1zYWpiUW1ES0RoZG5VbStIYjlQdnFnQUoyMHZKUVVJUHJORHBzNUIwRU9yK3ZwOGdKc2d4Y3RuWE11ekFDbnN5Tk9PSE1uMVNRY1M1NWdaTThwK0FBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzUzMzUwNjYwCWZpbGU6cHZwLXJvLWNsaWVudF8wLjEuMF94NjQtc2V0dXAuZXhlCjJ1WTE0M201Rm9kV0hYdklyeXRxeTB4VWpHK0JTZ0RPd2lHZlBUak9XM3hXMDJJUzFwM1JMTytqdjMydkNrdGxMVGpHR3B0clBtaFpkR2Eya0c3S0JBPT0K",
+        "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUVDZXZW4vLzJEdXUvYmFtRnBxSUh1NW5hT01jNnBLME1hRTlCanE3Tkg0ZTh4WTVNWjNnTDFSVjc4aDZkS2Z0d08wR1d5MzZhMUF2TUNaUyszME5GT0pza0VwWGtLRndvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzUzMzUxNTA3CWZpbGU6cHZwLXJvLWNsaWVudF8wLjIuMF94NjQtc2V0dXAuZXhlCkZDK2VIT3RQUDNEU3dBeVpwRTkwNCtYNUpxMzlVdWlrQ1pBT2JyV05SL1BWWnpKajduUXlKV2t4dnlZZjdWd1plLytpbUR3amtaSU1EeHl5WEJxZ0FnPT0K",
         "url": "https://github.com/mang0apps/pvpro-reborn-public/releases/download/0.1.0/pvp-ro-client_0.2.0_x64-setup.exe"
       }
     }
