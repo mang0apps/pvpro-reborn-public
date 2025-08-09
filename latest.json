@@ -1,11 +1,11 @@
 {
-    "version": "0.2.0",
-    "notes": "Version 0.2.0",
-    "pub_date": "2025-08-09T02:30:30.888Z",
+    "version": "0.2.1",
+    "notes": "Version 0.2.1",
+    "pub_date": "2025-08-09T05:03:29.450Z",
     "platforms": {
       "windows-x86_64": {
-        "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUVDZXZW4vLzJEdWlld2ZNOTVDM2tDeE1BNy9aaDZYejZtMGxYNHR6bWljdjRFQ0lrdDQxeTIwazFyTjVpRWE2RjEyMHI4OVJsSXBlMmxNdXNqbjNpbGtYRkVCdHVOamdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU0NzAyOTIzCWZpbGU6cHZwLXJvLWNsaWVudF8wLjIuMF94NjQtc2V0dXAuZXhlCjF0NVMrR01EdGlqVW4wanI0V3NheTJJcnJocGsyYmpvL09uNTNZa2ZRQ2V3dzRTQmtOdm9ueDlmMHcwbXZ0Z0dNSExWZ1E0M2dEejJjdGtoMlhzcER3PT0K",
-        "url": "https://github.com/mang0apps/pvpro-reborn-public/releases/download/v0.2.0/pvp-ro-client_0.2.0_x64-setup.exe"
+        "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUVDZXZW4vLzJEdXVmT2hFd1RKVTVRRzdNcEdjM2doSVVEQ3RBNktOUk54aVl3MGtKTzNXaXA0Yis5OFBDblRUbWhRZTQ3OEg3aENkUGZwUDRGSmZHSVprL0djN2FJeXdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU0NzE0NjExCWZpbGU6cHZwLXJvLWNsaWVudF8wLjIuMV94NjQtc2V0dXAuZXhlCkR5bVZpN205MFZHdjZqeEVZYUd6aGZzUm1wZExXOE4xdmFXOEFpL2g2N0doajZlSHQweURpeGdPblkrUVZ5dzBZeXh0WW5lUi9aQzhKY1JxZk9CRkFBPT0K",
+        "url": "https://github.com/mang0apps/pvpro-reborn-public/releases/download/v1/pvp-ro-client_0.2.1_x64-setup.exe"
       }
     }
   }
