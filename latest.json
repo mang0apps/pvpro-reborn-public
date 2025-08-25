@@ -1,11 +1,11 @@
 {
   "version": "1.0.4",
   "notes": "pvpRO - reborn installer",
-  "pub_date": "2025-08-17T14:11:58.582Z",
+  "pub_date": "2025-08-25T13:02:32.897Z",
   "platforms": {
     "windows-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUVDZXZW4vLzJEdXY5RzB4cW94aSs0Y3Rqc1hkN1JvZitBdGcwSTlrMjJGSVR4aDdIbERRRFVxMmkzeUUyam5TTGUzRm13Wm14ZlFDZkZTdjVLYW4vUEcyWk1MMkkxWkFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU1NDg1NDQxCWZpbGU6cHZwLXJvLWNsaWVudF8xLjAuNF94NjQtc2V0dXAuZXhlCkJaK3VOazc2YW1QbkFjcmMyRWlaM1VCK3BiQzhScWkyRDB5RzB3VDhNT2tUZmJmdWZMWkdOK0lHQlNCY1FVaitMSitwTVBienJQNkNwOHltdFIvekR3PT0K",
-      "url": "https://github.com/mang0apps/pvpro-reborn-public/releases/download/v1/pvp-ro-client_1.0.4_x64-setup.exe"
+      "url": "https://github.com/mang0apps/pvpro-reborn-public/releases/download/v1/pvp-ro-client_x64-setup.exe"
     }
   }
 }
