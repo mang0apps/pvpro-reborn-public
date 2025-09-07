@@ -1,10 +1,10 @@
 {
-  "version": "1.0.5",
+  "version": "1.1.0",
   "notes": "pvpRO - reborn installer",
-  "pub_date": "2025-08-25T13:06:01.763Z",
+  "pub_date": "2025-09-07T14:49:13.804Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUVDZXZW4vLzJEdXFTMm42eElRVkozeFNRa0M0aTd5K0pyS0hMZGVPMk5EWG9RazBtcmFCR1V2ODRFNU1JOGVIQUtMR3oxc2tRSnRWc0o0MTl1YlpacWZVMEtjb0wyWGdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU2NDUwMjA2CWZpbGU6cHZwLXJvLWNsaWVudF8xLjAuNV94NjRfZW4tVVMubXNpCnZwS1FQZDdFWEZLa2FHU0VpUE5aZjFZVFVIVDdFeWErL3UyVVZmbWtEU05GVlljbDdjNUFCbU1wUEUzUW91M3h6QktlVmNjcjk5Z0w3SjloRDBtUEFBPT0K",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUVDZXZW4vLzJEdXUyVTY3RjBadG9TWGxvMnJaYzU2blJ0Ky9FeWlvWlMxNWNaaktKVGhhYlVNc0FCWFZ2VjRKUU5TOFlIWi9hRDNjSjdiTjM3ZXY1OGtKT0tqTDlMSXdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU3MjU5MTIyCWZpbGU6cHZwLXJvLWNsaWVudF8xLjEuMF94NjRfZW4tVVMubXNpCmdhK2Jid2hldjU4azU1eklnVTlUNlhRcFpySk5QSmJMdzVBVHR4RHc4TTVCVDFYV0Q3U1JmMEhnbTNSY2pqV1o4aVVUbktONnR4OVcvc1hVcU9EL0FRPT0K",
       "url": "https://github.com/mang0apps/pvpro-reborn-public/releases/download/v1/pvp-ro-client_x64.msi"
     }
   }
